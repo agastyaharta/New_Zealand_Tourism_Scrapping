@@ -1,4 +1,4 @@
-# New Zealand's Tourism Cities Activities Scrapping
+## Popular Tourist Destinations in New Zealand
 
-* Łukasz Brzoska 
 * I Putu Agastya Harta Pratama
+* Łukasz Brzoska 

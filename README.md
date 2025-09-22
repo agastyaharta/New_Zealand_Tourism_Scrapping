@@ -1,4 +1,5 @@
 ## Popular Tourist Destinations in New Zealand
+The goal of the project is to build a comprehensive dataset that supports **travel planning, tourism analysis, and business intelligence** by making the rich information on the tourism board’s website more accessible for analysis.
 
 ## Contributors 
 * I Putu Agastya Harta Pratama
@@ -7,7 +8,7 @@
 Warsaw, Poland  
 2025
 
-*A Web Scraping Project on Dynamic and Static Webpages*
+## Project Descriptions
 
 This project focuses on extracting structured tourism information from the official  
 [New Zealand Tourism Board Website](https://www.newzealand.com/int/).  
@@ -18,12 +19,8 @@ Using a combination of **Selenium** and **BeautifulSoup**, we collected data on:
 - Descriptions, images, and related details  
 - Contact information such as phone numbers and emails  
 
-The goal is to build a comprehensive dataset that supports **travel planning, tourism analysis, and business intelligence** by making the rich information on the tourism board’s website more accessible for analysis.
-
-- Many parts of the tourism website are **dynamically loaded** (e.g., search results, interactive filters).  
-  These elements require **Selenium**, which controls a browser to simulate human browsing, clicks, and navigation.  
-- Other sections are **static HTML** (e.g., descriptive text, fixed lists of popular cities).  
-  For these, **BeautifulSoup** provides a faster and more efficient way to parse and extract information.  
+Many parts of the tourism website are **dynamically loaded** (e.g., search results, interactive filters). These elements require **Selenium**, which controls a browser to simulate human browsing, clicks, and navigation.  
+Other sections are **static HTML** (e.g., descriptive text, fixed lists of popular cities). For these, **BeautifulSoup** provides a faster and more efficient way to parse and extract information.  
 
 ---
 
